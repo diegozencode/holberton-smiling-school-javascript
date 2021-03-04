@@ -14,7 +14,7 @@ The objective is simple: Have a fully functional web page that looks the same as
 ![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)
 ![Figma](https://img.shields.io/badge/≡-Figma-F24E1E?logo=Figma&style=flat-square&labelColor=282828)
 ![GNU_Bash](https://img.shields.io/badge/≡-GNU_Bash-4EAA25?logo=GNU-Bash&style=flat-square&labelColor=282828)
-![Pop!_OS](https://img.shields.io/badge/≡-Pop!_OS-48B9C7?logo=Pop!_OS&style=flat-square&labelColor=282828)
+![Pop!_OS](https://img.shields.io/badge/≡-Pop!_OS-48B9C7?logo=Pop_OS&style=flat-square&labelColor=282828)
 ![CSS3](https://img.shields.io/badge/≡-CSS3-1572B6?logo=CSS3&style=flat-square&logoColor=1572B6&labelColor=282828)
 ![jQuery](https://img.shields.io/badge/≡-jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=0769AD&labelColor=282828)
 ![VS_Code](https://img.shields.io/badge/≡-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=007ACC&labelColor=282828)
