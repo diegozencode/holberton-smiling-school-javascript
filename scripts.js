@@ -47,8 +47,8 @@ $(function () {
         </div>`;
         $('#comments-slide').append(comments);
         });
-      }}
-    );
+      }
+    });
   }
 
   queryComments();
